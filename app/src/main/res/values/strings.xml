@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MYRA AI</string>
+    <string name="launcher_name">MYRA AI</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_voice">Voice</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_automation">Automation</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_diagnostics">Diagnostics</string>
+    <string name="nav_admin">Admin</string>
+    
+    <!-- Status Labels -->
+    <string name="status_idle">IDLE</string>
+    <string name="status_listening">LISTENING</string>
+    <string name="status_processing">PROCESSING</string>
+    <string name="status_speaking">SPEAKING</string>
+    <string name="status_offline">OFFLINE</string>
+    <string name="status_error">ERROR</string>
+    
+    <!-- Permissions & Accessibility -->
+    <string name="accessibility_service_label">MYRA AI Automation Service</string>
+    <string name="accessibility_service_description">Provides device automation and screen element navigation strictly with user consent.</string>
+    <string name="notification_listener_label">MYRA AI Notification Assistant</string>
+    
+    <!-- Foreground Service -->
+    <string name="foreground_service_title">MYRA AI Active</string>
+    <string name="foreground_service_desc">MYRA AI assistant is active and monitoring enabled tasks</string>
+</resources>
